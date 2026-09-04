@@ -1,176 +1,148 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d0b5a,100:6d28d9&height=280&section=header&text=Affan%20Umar&fontSize=70&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=20" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+scalable+systems+at+the+edge+of+AI+%2B+Engineering;Full+Stack+Developer+%7C+AI%2FML+Engineer;Turning+complex+problems+into+elegant+code;Open+Source+%7C+Systems+Design+%7C+Cloud+Native" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-6D28D9?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-Engineer-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack-Developer-A855F7?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/affan-umar-aa17b1433/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/existsrarely"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=existsrarely&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/existsrarely?style=for-the-badge&color=8b5cf6&labelColor=1e0a3c&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/existsrarely?style=for-the-badge&color=a78bfa&labelColor=1e0a3c&label=STARS"/> </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🪐 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/discord-status.svg" alt="mesmerizing accent"/>
+
+I'm a B.Tech student specializing in AI/ML, building systems that sit at the intersection of software engineering rigor and applied artificial intelligence. I like turning messy, real-world problems into clean, working software — with a product mindset that never loses sight of the person on the other end of the screen.
+
+🧠 Deep focus on AI/ML systems — from model training to practical inference pipelines
+🏗️ Full-stack development — designing and building projects end-to-end
+⚙️ Product-engineering mindset: I ship things people actually use, not just things that compile
+🌱 Currently deepening my foundations in Python, Java, C++, and Cloud Computing
+yaml
+Open To:
+  - Internships & entry-level Software Engineering roles (AI/ML / Full-Stack)
+  - Open source collaboration
+  - Learning opportunities & technical mentorship
+  - Freelance & project-based work
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🛠️ Tech Stack
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=220&section=header&text=Affan%20Umar&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontWeight=600" width="100%" />
+Languages <br/> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+%26+ML+Specialist;Full-Stack+Developer+%7C+Backend+Architect;Building+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
+Frontend <br/> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%2C%20ML)-Integral%20University-8B5CF6?style=for-the-badge&logo=graduationsdk" />
-  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-blueviolet?style=for-the-badge&logo=googlemaps" />
-</p>
+Backend & Databases <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,postgres,mongodb,redis&theme=dark"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/affan-umar-aa17b1433" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:affanumar@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/existsrarely" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+Cloud, DevOps & Tooling <br/> <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,linux&theme=dark"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=existsrarely&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/existsrarely?color=8B5CF6&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/existsrarely?color=A855F7&style=for-the-badge&logo=github" />
-</p>
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🤖 AI / ML Expertise
+<div align="center">
+Domain	Proficiency	Details
+Machine Learning	⭐⭐⭐⭐☆	Model training, evaluation, feature engineering, classical ML pipelines
+Deep Learning	⭐⭐⭐⭐☆	Neural network architectures, CNNs/RNNs/Transformers, PyTorch/TensorFlow
+NLP	⭐⭐⭐⭐☆	Text classification, embeddings, LLM-based applications
+MLOps	⭐⭐⭐☆☆	Model deployment, monitoring, CI/CD for ML pipelines
+Data Engineering	⭐⭐⭐⭐☆	ETL pipelines, large-scale data processing, warehousing
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🚀 Featured Projects
+<details open> <summary><b>🔮 Delivia</b></summary> <br/>
 
-</div>
+(Add a one-line description of what Delivia does — placeholder below until you share the details)
 
----
+Stack	Scale	Performance	Security	Impact	Repository
+Add stack	Add scale	Add performance notes	Add security notes	Add impact	View Repo
 
-## 💻 About Me
+A short professional paragraph on the engineering story behind Delivia goes here once you share what it does and how it's built.
 
-* Passionate **Software Engineer** and undergraduate pursuing Computer Science & Engineering with a specialization in **Artificial Intelligence and Machine Learning** at Integral University.
-* Strong background in designing, engineering, and deploying robust **full-stack architectures** and backend systems using Node.js, Express, and modern JavaScript.
-* Experienced in leading development teams, driving high-impact technical projects, and architecting solutions for real-time logistics and synchronization systems.
-* Deeply focused on writing clean, scalable, maintainable code with a strong product engineering mindset and problem-solving capability.
-* **Open To:** Software Engineering roles, Backend Development positions, AI/ML engineering opportunities, and collaborative open-source projects.
+</details> <details> <summary><b>⚡ Project Two — Replace with your real project name</b></summary> <br/>
 
----
+Short, punchy description of what this project does and the problem it solves.
 
-## 🛠️ Tech Stack
+Stack	Scale	Performance	Security	Impact	Repository
+Python, FastAPI, PyTorch	Batch + real-time inference	Sub-100ms inference	Rate-limited API keys	Improved accuracy by X%	View Repo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,nodejs,express,mongodb,sql,postman,git,github,vscode,vercel,replit" />
-</p>
+A short professional paragraph on the engineering story behind this project.
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, Python, C++, SQL |
-| **Frontend** | HTML5, CSS3, Modern JavaScript |
-| **Backend & Databases** | Node.js, Express.js, RESTful APIs, SQL Databases, MongoDB |
-| **Cloud, DevOps & Tooling** | Git, GitHub, Postman, Vercel, Replit, VS Code |
+</details> <details> <summary><b>🛰️ Project Three — Replace with your real project name</b></summary> <br/>
 
----
+Short, punchy description of what this project does and the problem it solves.
 
-## 🤖 AI/ML Expertise
+Stack	Scale	Performance	Security	Impact	Repository
+Next.js, MongoDB, Docker	Production-ready	Optimized bundle size	OAuth2	Adopted by X teams	View Repo
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Machine Learning Foundations** | Advanced | Core statistical learning algorithms, data pipeline preprocessing, and predictive modeling. |
-| **Prompt Engineering & GenAI** | Expert | Advanced workflow optimization, context tuning, and code generation utilizing LLM models like Claude. |
-| **AI Integration** | Advanced | Embedding intelligent automated logic into full-stack application routing and backend architectures. |
+A short professional paragraph on the engineering story behind this project.
 
----
+</details> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+💼 Experience
 
-## 📁 Featured Projects
+Software Engineer · Company Name <br/> Month Year — Present
 
-<details>
-<summary><b>🚀 Project Delivia — In-Transit Highway Delivery Synchronization System</b></summary>
+Professional description of the role and its scope goes here.
 
-<br>
+Bullet point describing a core responsibility
+Bullet point describing a shipped feature or system
+Bullet point describing measurable impact
 
-Delivia is a high-performance logistics synchronization platform built to manage and streamline in-transit highway delivery networks in real-time. Designed for enterprise-grade tracking and route optimization.
+Java Spring Boot AWS PostgreSQL Docker
 
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | Node.js, Express, JavaScript, REST APIs, Postman |
-| **Scale** | Multi-node delivery tracking routing for high-volume logistics |
-| **Performance** | Optimized sub-millisecond route synchronization queries and response times |
-| **Security** | Encrypted payload routing, role-based access control, secure environment variables |
-| **Impact** | Reduced synchronization lag and eliminated manual communication friction across transit teams |
+<br/>
 
-* **Repository:** [github.com/existsrarely/delivia-backend](https://github.com/existsrarely/delivia-backend)
-* **Technical Explanation:** Developed comprehensive backend routing scripts and server-side logic to handle asynchronous data streams. Implemented rigorous endpoint testing and automated validation workflows using Postman to ensure high availability and data integrity under load.
+Software Engineer (Prior Role) · Company Name <br/> Month Year — Month Year
 
-</details>
+Professional description of the role and its scope goes here.
 
----
+Bullet point describing a core responsibility
+Bullet point describing a shipped feature or system
+Bullet point describing measurable impact
 
-## 💼 Experience & Leadership
+Python React MongoDB CI/CD
 
-### Team Lead & Project Architect
-**Internal Hackathon / Smart India Hackathon Prep** • *Integral University*
-*August 2026*
-* Directed a multi-disciplinary student engineering team to design, build, and pitch an in-transit highway delivery tracking ecosystem under strict competitive deadlines.
-* Spearheaded backend architecture design, database schema conceptualization, and task delegation between data analysts and developers.
-* Successfully delivered a production-ready MVP demonstrating end-to-end synchronization logic and efficient resource management.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🏆 Achievements
+<div align="center">
+Recognition	Details
+🥇 Achievement One	Replace with your real achievement
+🎖️ Achievement Two	Replace with your real achievement
+🌟 Achievement Three	Replace with your real achievement
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📜 Certifications
+<div align="center"> <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-A855F7?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud%20Computing-9333EA?style=for-the-badge&logo=icloud&logoColor=white"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🎯 Coding Profiles
+<div align="center">
 
----
+<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=6D28D9"/></a> <a href="https://www.geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> <a href="https://www.codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
-## 🏆 Achievements
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=E9D5FF"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🏅 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10&row=1&column=7"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+🔭 Current Focus
+yaml
+Learning:
+  - Advanced distributed systems design
+  - Large Language Model fine-tuning & evaluation
+Building:
+  - A production-grade AI-powered application
+  - Open source tooling for developer productivity
+Exploring:
+  - Vector databases & retrieval-augmented generation
+  - Edge computing for ML inference
+Open To:
+  - Full-time Software Engineering / AI-ML roles
+  - Interesting collaborations & freelance work
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📫 Connect
+<div align="center">
 
-<p align="center">
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/affan-umar-aa17b1433/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-| Recognition | Details |
-| :--- | :--- |
-| **Hackathon Leadership** | Led and orchestrated a technical team submission for university-level hackathon selection, managing system architecture and sprint execution. |
-| **Academic Specialization** | Admitted with a specialized curriculum focus in Artificial Intelligence & Machine Learning at Integral University. |
-| **Full-Stack Delivery** | Successfully designed and executed complex backend systems for real-time logistics tracking and system synchronization. |
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> <div align="center">
 
-</p>
+"Code is the closest thing we have to magic — write it like someone's watching."
 
----
-
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++_Programming-Verified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Professional-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-Completed-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
----
-
-## ⚡ Coding Profiles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Custom_Profile-Active_Problem_Solver-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithm_Focus-Data_Structures-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=existsrarely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&icon_color=a855f7" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=existsrarely&theme=tokyonight&hide_border=true&background=1a1b26&sideLabels=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=existsrarely&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=existsrarely&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" width="100%" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=existsrarely&theme=react-dark&hide_border=true&color=8b5cf6&line=a855f7&point=ffffff&background=1a1b26" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/existsrarely/existsrarely/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Current Focus:
-  Learning: Advanced Machine Learning Models, Enterprise System Architecture, TypeScript
-  Building: Scalable backend synchronization tools and full-stack enterprise applications
-  Exploring: AI-driven developer tooling and optimized cloud infrastructure
-  Open To: Software Engineering roles, Backend positions, and collaborative AI/ML projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d0b5a,100:0f0524&height=150&section=footer"/> </div>
